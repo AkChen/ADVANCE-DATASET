@@ -10,9 +10,9 @@ some introductions
 
 ## Statistics and some samples
 1. Statistics
-
+![PNG](/statistics.png)
 2. Audiovisual samples
-<img src="https://s1.ax1x.com/2020/07/14/UaUheH.png" alt="UaUheH.png" border="0" />
+![PNG](/samples.png)
 
 ## Detailed information for the ADVANCE dataset
 

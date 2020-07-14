@@ -9,7 +9,10 @@ The audiovisual aerial scene recognition task has not been explored before. Sale
 some introductions
 
 ## Statistics and some samples
-![PNG](/samples.png)
+1. Statistics
+
+2. Audiovisual samples
+<img src="https://s1.ax1x.com/2020/07/14/UaUheH.png" alt="UaUheH.png" border="0" />
 
 ## Detailed information for the ADVANCE dataset
 

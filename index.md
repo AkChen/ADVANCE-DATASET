@@ -23,7 +23,7 @@ So, two extra steps are designed to alleviate the unbalanced-distribution proble
 
 ## Download
 
-[Paper Repo] (https://github.com/DTaoo/Multimodal-Aerial-Scene-Recognition)
+[Paper Repo](https://github.com/DTaoo/Multimodal-Aerial-Scene-Recognition)
 
 [Dataset](https://zenodo.org/record/3828124)
 

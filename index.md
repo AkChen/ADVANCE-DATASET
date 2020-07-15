@@ -24,7 +24,7 @@ some introductions
 So, two extra steps are designed to alleviate the unbalanced-distribution problem. Firstly we filter out the scenes whose numbers of paired samples are less than 10, such as desert and the site of wind turbines. Then for scenes that have less than 100 samples, we apply a small offset to the original geographic coordinates in four directions. So, correspondingly, four new aerial images are generated from Google Earth and paired with the same audio recording, while for each image, a new 10-second sound clip is randomly extracted from the recording. 
 
 ## Spliting strategy
-   The dataset was splited by train/Val/test with the ratio of 0.7:0.1:0.2. The demo of data construction [data/data_partition.py::data_construction](https://github.com/DTaoo/Multimodal-Aerial-Scene-Recognition/blob/master/data/data_partition.py)
+   The dataset was splited by train/Val/test with the ratio of 0.7:0.1:0.2. [Data construction demo](https://github.com/DTaoo/Multimodal-Aerial-Scene-Recognition/blob/master/data/data_partition.py)
 
 ## Download
 

@@ -27,12 +27,13 @@ So, two extra steps are designed to alleviate the unbalanced-distribution proble
 
 [Dataset](https://zenodo.org/record/3828124)
 
+
+## References
+[1] Salem, T., Zhai, M., Workman, S., Jacobs, N.: A multimodal approach to mapping soundscapes. In: IEEE International Geoscience and Remote Sensing Symposium (IGARSS) (2018)
+
 If you use this repo or the ADVANCE dataset in your research, please cite our paper:
 
       Cross-Task Transfer for Geotagged Audiovisual Aerial Scene Recognition 
       Di Hu, Xuhong Li, Lichao Mou, Pu Jin, Dong Chen, Liping Jing, Xiaoxiang Zhu, Dejing Dou
       ECCV 2020
-## References
-[1] Salem, T., Zhai, M., Workman, S., Jacobs, N.: A multimodal approach to mapping soundscapes. In: IEEE International Geoscience and Remote Sensing Symposium (IGARSS) (2018)
-
 

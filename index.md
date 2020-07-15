@@ -5,7 +5,7 @@ Authors: Di Hu, Xuhong Li, Lichao Mou, Pu Jin, Dong Chen, Liping Jing, Xiaoxiang
 
 ## Brief Introduction
 
-For further facilitating the research in this field, we construct a new dataset, with high-quality images and scene labels, named as Aerial sceNe reCognition datasEt(ADVANCE), which in summary contains 5075 pairs of aerial images and sounds, classified into 13 classes.
+To our knowledge, the audiovisual aerial scene recognition task has not been explored before, for further facilitating the research in this field, we construct a new dataset, with high-quality images and scene labels, named as Aerial sceNe reCognition datasEt(ADVANCE), which in summary contains 5075 pairs of aerial images and sounds, classified into 13 classes.
 some introductions
 
 ## Statistics and some samples

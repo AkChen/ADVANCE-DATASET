@@ -9,9 +9,9 @@ To our knowledge, the audiovisual aerial scene recognition task has not been exp
 some introductions
 
 ## Statistics and some samples
-1. Statistics
+Statistics
 ![PNG](/statistics.png)
-2. Audiovisual samples
+Audiovisual samples
 ![PNG](/samples.png)
 
 ## Detailed information for the ADVANCE dataset
@@ -20,4 +20,6 @@ some introductions
 
   Due to the inherent uneven distribution of scene classes, the collected data are strongly unbalanced, which makes difficult the training process.
 So, two extra steps are designed to alleviate the unbalanced-distribution problem. Firstly we filter out the scenes whose numbers of paired samples are less than 10, such as desert and the site of wind turbines. Then for scenes that have less than 100 samples, we apply a small offset to the original geographic coordinates in four directions. So, correspondingly, four new aerial images are generated from Google Earth and paired with the same audio recording, while for each image, a new 10-second sound clip is randomly extracted from the recording. 
+
+
 ## Download

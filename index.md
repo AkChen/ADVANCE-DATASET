@@ -1,4 +1,4 @@
-## Cross-Task Transfer for Multimodal Aerial Scene Recognition 
+## Cross-Task Transfer for Geotagged Audiovisual Aerial Scene Recognition
 ## ECCV 2020
 Authors: Di Hu, Xuhong Li, Lichao Mou, Pu Jin, Dong Chen, Liping Jing, Xiaoxiang Zhu, Dejing Dou
 

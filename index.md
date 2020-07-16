@@ -34,7 +34,7 @@ So, two extra steps are designed to alleviate the unbalanced-distribution proble
 
 ## Reference
 
-If you use this repo or the ADVANCE dataset in your research, please cite our paper:
+If you use the paper repo or the ADVANCE dataset in your research, please cite our paper:
 
       Cross-Task Transfer for Geotagged Audiovisual Aerial Scene Recognition 
       Di Hu, Xuhong Li, Lichao Mou, Pu Jin, Dong Chen, Liping Jing, Xiaoxiang Zhu, Dejing Dou

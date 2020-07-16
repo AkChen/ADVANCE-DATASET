@@ -9,7 +9,7 @@ The AuDio Visual Aerial sceNe reCognition datasEt (ADVANCE) is a brand-new multi
 
 ## Audiovisual samples
 ![PNG](/samples.jpeg)
-Globally coordinates distribution and sample pairs of images and sound. Different scenes are represented by different color. Six sample pairs are displayed, which are composed of aerial images, sound and semantic labels.
+Global coordinates distribution and sample pairs of images and sound. Different scenes are represented by different color. Six sample pairs are displayed, which are composed of aerial images, sound and semantic labels.
 
 
 ## Dataset collection
